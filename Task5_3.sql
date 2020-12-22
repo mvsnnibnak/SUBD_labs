@@ -1,0 +1,5 @@
+USE Pharmacy
+GO
+SELECT*FROM  л≥Їнти_1
+UNION
+SELECT*FROM  л≥Їнти_2
